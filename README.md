@@ -10,23 +10,17 @@ Graduated from the University of Technology Sydney with a 'Bachelors of Science 
 Have always had an interest in STEM and technology as a whole. Grew up on the edge of two eras, at the start of the millenia, as the internet went from a niche to becoming more and more prominent as the years passed.
 
 ### Current Skills:
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) - JavaScript
-
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) - HTML
-
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) - CSS
-
-[![AI Integration](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) - AI Integration
-
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) - React
-
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) - MySQL
-
-[![MongoDB](https://skillicons.dev/icons?i=monogdb)](https://skillicons.dev) - MongoDB
-
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) - Node.js
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) - Docker
+<div align="center">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"></a> JavaScript
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"></a> HTML
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"></a> CSS
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="AI Integration"></a> AI Integration
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"></a> React
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"></a> MySQL
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"></a> MongoDB
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS"></a> Node.js
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"></a> Docker
+</div>
 
 
 
