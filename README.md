@@ -11,15 +11,15 @@ Have always had an interest in STEM and technology as a whole. Grew up on the ed
 
 ### Current Skills:
 <div align="center">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"></a> JavaScript
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"></a> HTML
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"></a> CSS
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="AI Integration"></a> AI Integration
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"></a> React
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"></a> MySQL
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"></a> MongoDB
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS"></a> Node.js
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"></a> Docker
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"></a> JavaScript <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"></a> HTML <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"></a> CSS <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="AI Integration"></a> AI Integration <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"></a> React <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"></a> MySQL <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"></a> MongoDB <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS"></a> Node.js <br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"></a> Docker <br>
 </div>
 
 
