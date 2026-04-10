@@ -10,7 +10,7 @@ Graduated from the University of Technology Sydney with a 'Bachelors of Science 
 Have always had an interest in STEM and technology as a whole. Grew up on the edge of two eras, at the start of the millenia, as the internet went from a niche to becoming more and more prominent as the years passed.
 
 ### Current Skills:
-- ![React]("https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50")
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg =50x50)
 
 You can find/contact me at:
 - Linkedin: https://www.linkedin.com/in/paywand-amir-474997281/
