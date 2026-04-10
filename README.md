@@ -11,14 +11,23 @@ Have always had an interest in STEM and technology as a whole. Grew up on the ed
 
 ### Current Skills:
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) - JavaScript
+
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) - HTML
+
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) - CSS
+
 [![AI Integration](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) - AI Integration
+
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) - React
+
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) - MySQL
+
 [![MongoDB](https://skillicons.dev/icons?i=monogdb)](https://skillicons.dev) - MongoDB
+
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) - Node.js
+
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) - Docker
+
 
 
 You can find/contact me at:
