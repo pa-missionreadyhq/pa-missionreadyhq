@@ -10,42 +10,43 @@ Graduated from the University of Technology Sydney with a 'Bachelors of Science 
 Have always had an interest in STEM and technology as a whole. Grew up on the edge of two eras, at the start of the millenia, as the internet went from a niche to becoming more and more prominent as the years passed.
 
 ### Current Skills:
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"></a>
-    <span style="margin-left: 10px;">JavaScript</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">JavaScript</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"></a>
-    <span style="margin-left: 10px;">HTML</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">HTML</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"></a>
-    <span style="margin-left: 10px;">CSS</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">CSS</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="AI Integration"></a>
-    <span style="margin-left: 10px;">AI Integration</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="AI Integration" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">AI Integration</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"></a>
-    <span style="margin-left: 10px;">React</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">React</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"></a>
-    <span style="margin-left: 10px;">MySQL</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">MySQL</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"></a>
-    <span style="margin-left: 10px;">MongoDB</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">MongoDB</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS"></a>
-    <span style="margin-left: 10px;">Node.js</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">Node.js</span>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"></a>
-    <span style="margin-left: 10px;">Docker</span>
+<div>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" style="vertical-align: middle;"></a>
+    <span style="margin-left: 10px; vertical-align: middle;">Docker</span>
 </div>
+<br>
 
 
 
