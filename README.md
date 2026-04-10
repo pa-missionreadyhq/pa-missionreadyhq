@@ -50,8 +50,14 @@ Have always had an interest in STEM and technology as a whole. Grew up on the ed
 
 
 You can find/contact me at:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Linkedin: https://www.linkedin.com/in/paywand-amir-474997281/
-[![Mail](https://skillicons.dev/icons?i=mail)](https://skillicons.dev) Email: paywand.amir@outlook.com
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://www.linkedin.com/in/paywand-amir-474997281/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>
+    <span style="margin-left: 10px;">LinkedIn: [Paywand Amir](https://www.linkedin.com/in/paywand-amir-474997281/)</span>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="mailto:paywand.amir@outlook.com"><img src="https://skillicons.dev/icons?i=mail" width="40" height="40" alt="Mail"></a>
+    <span style="margin-left: 10px;">Email: [paywand.amir@outlook.com](mailto:paywand.amir@outlook.com)</span>
+</div>
 
 <!--
 **pa-missionreadyhq/pa-missionreadyhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
